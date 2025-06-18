@@ -6,11 +6,11 @@ This project predicts house prices using machine learning regression techniques 
 - `House-Price-Prediction.ipynb` – Jupyter Notebook with full analysis and model
 - `train.csv` / `test.csv` – Training and testing datasets
 - `data_description.txt` – Feature descriptions
-- `download.png` – Output: Actual vs Predicted prices plot
+- `Output.png` – Output: Actual vs Predicted prices plot
 
 ## 📊 Output Plot
 
-![Predicted vs Actual](download.png)
+![Predicted vs Actual](Output.png)
 
 ## 🚀 How to Run
 1. Open the notebook in Jupyter
